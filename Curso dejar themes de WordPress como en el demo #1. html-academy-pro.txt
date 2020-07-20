@@ -1,0 +1,110 @@
+///HTML Widgets en Academy Pro///
+
+********* Banner TOP *********
+
+Aquí puedes poner una <strong> <a href="#">oferta del -50% </a> </strong> hasta el 31 de Agosto
+
+********* Front Page 1 *********
+
+WIDGET 2
+
+<div class="intro">The $15 billion a year online education industry will only get larger, which means it represents a huge opportunity for savvy digital entrepreneurs.</div> 
+
+
+********* Front Page 2 *********
+
+WIDGET 1
+
+<i class="sp-icon-video"></i>
+<h3>46+ Video Lessons</h3>
+<p>Simple, step-by-step, bite-sized video lessons so you make real progress, starting today!</p> 
+
+WIDGET 2
+
+<i class="sp-icon-cast"></i>
+<h3>Weekly Webinars</h3>
+<p>Join our webinars live or catch the replays to keep abreast of the latest developments, tips, and techniques.</p>
+
+WIDGET 3
+
+<i class="sp-icon-users"></i>
+<h3>Community</h3>
+<p>Come for the strategies and stay for the community. Network, discuss, and share ideas with your peers.</p>
+
+WIDGET 4
+
+<i class="sp-icon-layers"></i>
+<h3>120+ Lessons</h3>
+<p>Dive deep with our 120+ lessons that take you through everything you need to know, from the basics all the way to the cutting edge.</p>
+
+WIDGET 5
+
+<i class="sp-icon-layout"></i>
+<h3>Handouts and Quizzes</h3>
+<p>Cement your knowledge with downloads, worksheets, and quizzes. Don't forget a thing and know how to implement what you learned effectively.</p>
+
+WIDGET 6
+
+<i class="sp-icon-file-plus"></i>
+<h3>Bonus Materials</h3>
+<p>Want to go further? We have you covered, with software discounts, bonus materials, and recommended resources.</p>
+
+
+********* Front Page 3 *********
+
+WIDGET 1
+
+<p><a href="#" class="button">Get Started Now</a></p>
+<a href="#" class="button text">Get 3 Free Lessons</a>
+
+
+********* Front Page 4 *********
+
+WIDGET 2
+
+<blockquote>I was skeptical but I found that your system had multiplied my revenue by 40% after just the first quarter!
+<cite><img class="alignleft" src="https://test.studiopress.com/academy/files/2017/10/user1.png" alt="Pat Benatar"/>Pat Benatar</cite></blockquote>
+
+WIDGET 3
+
+<blockquote>We started using just one email marketing technique from this system and it helped us to make $5,000 more a month without any extra work!
+<cite><img class="alignleft" src="https://test.studiopress.com/academy/files/2017/10/user2.png" alt="Gary Moore"/> Gary Moore</cite></blockquote>
+
+WIDGET 4
+
+<blockquote>This course helped me to grow my email list from 500 to over 10,000 subscribers within 3 months!
+<cite><img class="alignleft" src="https://test.studiopress.com/academy/files/2017/10/user3.png" alt="Syd Barrett" /> Syd Barrett</cite></blockquote>
+
+
+********* Front Page 5 *********
+
+WIDGET 2
+
+<p class="intro">Hello, my name is William Murray. You might know me from such blockbuster movies as Ghost Extractors, Ground Squirrel Days, and Translation Lost.</p>
+
+<p>In 2007, Will was awarded a Doctor of Humanities degree from Regis University in Denver, Colorado. Murray is also partner in a business with his brothers, and owns the "Caddy Shack" restaurant located in Florida.</p>
+
+<p><a href="#">Read More</a> ...</p>
+
+
+********* Front Page 6 *********
+
+ENEWS ARRIBA
+
+<p>This program is delivered in self-paced format, along with optional webinars and Q&amp;A sessions that allow you to interact with the instructor, ask questions, and get individual attention.</p>
+
+<p>Here's a guide to all the comprehensive concepts, tactics and strategies you will gain from working this course.</p>
+
+<strong>Sign up today to get 3 exciting free lessons sent directly to your inbox.</strong>*
+
+ENEWS ABAJO
+
+<span class="small-disclaimer">*This page is for demonstration purposes only and does not represent an actual course.</span>
+
+
+
+FOOTER CTA
+
+<p><a href="#" class="button">Get Started Now</a></p>
+<a href="#" class="button text">Get 3 Free Lessons</a>
+
